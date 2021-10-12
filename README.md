@@ -1,0 +1,2 @@
+# ajat
+Tugas 1
